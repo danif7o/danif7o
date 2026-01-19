@@ -1,8 +1,8 @@
 <p align="center" width="300"><h2 align="center">
-  ¡Hey 👋! Soy Daniela 👨🏻‍💻</h2>
+  ¡Hey 👋! I'm Daniela 👨🏻‍💻</h2>
 </p>
 
-### 🤍 **Conecta conmigo**
+### 🤍 **Connect with me**
 <p align="center">
   <a href="https://www.linkedin.com/in/daniela-tipan-7d" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/4102/4102978.png" alt="Linkedin D" height="50px" width="50px" />
@@ -13,18 +13,18 @@
   </a>
 </p>
 
-- :school: Soy `Ingeniera en Sistemas`
-- :technologist: Me encanta transformar ideas en `Realidad`.
-- :student: Estoy aprendiendo más sobre `Desarrollo web` y `BI`.
-- :nerd_face: Me encanta `aprender nuevas cosas`.
-- :thinking: Actualmente estoy abierta a `nuevas oportunidades laborales`, este es mi `CV`[MY CV](https://).
+- :school: I'm a `Systems Engineer`.
+- :technologist: I love turning `ideas` into `reality`.
+- :student: I'm learning more about `Web Development` and `Business Intelligence`.
+- :nerd_face: I love learning new things.
+- :thinking: I'm currently open to new job opportunities. Here's [MY CV](https://).
 - :boom:
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tipan2002fernanda@gmail.com)
 
-## ✨ Sobre mí
- **Ingeniera en Sistemas** con enfoque en **Desarrollo Web y Diseño UI/UX**.  
+## ✨ About me
+**Systems Engineer** with a focus on **Web Development and UI/UX Design**.
 
-🔹 Desarrollo frontend y backend  🔹 Diseño UI/UX centrado en el usuario  🔹 Análisis de datos   
+🔹 Frontend and backend development 🔹 User-centered UI/UX design 🔹 Data analysis
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> &nbsp; Desarrollo Web
 
@@ -40,14 +40,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🔹 Bases de Datos
+### 🔹 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Software & Herramientas
+## 🖥️ Software & tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cs,dart,flutter,html,css,postgres,mysql,sqlite,figma,github,git,ubuntu,windows,mysql,postman,django,bootstrap,vscode,visualstudio&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,js,cs,dart,flutter,html,css,postgres,mysql,sqlite,figma,github,git,linux,ubuntu,windows,postman,django,bootstrap,vscode,visualstudio&perline=7" />
   </a>
 </p>
 
