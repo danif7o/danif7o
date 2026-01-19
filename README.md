@@ -15,19 +15,16 @@
 
 - :school: Soy `Ingeniera en Sistemas`
 - :technologist: Me encanta transformar ideas en `Realidad`.
-- :student: Estoy aprendiendo más sobre `Web Development` and `Business Inteligence`.
+- :student: Estoy aprendiendo más sobre `Desarrollo web` y `BI`.
 - :nerd_face: Me encanta `aprender nuevas cosas`.
-- :thinking: Actualmente estoy abierta a `oportunidades laborales`, este es mi `CV`[MY CV](https://).
+- :thinking: Actualmente estoy abierta a `nuevas oportunidades laborales`, este es mi `CV`[MY CV](https://).
 - :boom:
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tipan2002fernanda@gmail.com)
-<!-- Visita mi perfil [MY WEBSITE](https://).
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-tipan-7d) -->
 
 ## ✨ Sobre mí
  **Ingeniera en Sistemas** con enfoque en **Desarrollo Web y Diseño UI/UX**.  
 
-🔹 Desarrollo frontend y backend  
-🔹 Diseño UI/UX centrado en el usuario  
+🔹 Desarrollo frontend y backend  🔹 Diseño UI/UX centrado en el usuario  
 🔹 Análisis de datos   
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> &nbsp; Desarrollo Web
@@ -48,11 +45,8 @@
 ### 🔹 Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## Software & Herramientas
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,js,dart,flutter,html,css,postgres,mysql,figma,github,git,linux,mysql,postman,django,bootstrap,tailwind,vscode&perline=7)](https://skillicons.dev) -->
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,cs,dart,flutter,html,css,postgres,mysql,sqlite,figma,github,git,ubuntu,windows,mysql,postman,django,bootstrap,vscode,visualstudio&perline=7" />
