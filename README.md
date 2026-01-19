@@ -26,7 +26,7 @@
 
 🔹 Frontend and backend development 🔹 User-centered UI/UX design 🔹 Data analysis
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> &nbsp; Desarrollo Web
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> &nbsp; Web development
 
 ### 🔹 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
