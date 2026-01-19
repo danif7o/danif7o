@@ -14,10 +14,10 @@
 </p>
 
 - :school: I'm a `Systems Engineer`.
-- :technologist: I love turning `ideas` into `reality`.
+- :technologist: I love turning ideas into innovative web solutions that create real impact.
 - :student: I'm learning more about `Web Development` and `Business Intelligence`.
 - :nerd_face: I love learning new things.
-- :thinking: I'm currently open to new job opportunities. Here's [MY CV](https://).
+- :thinking: I'm currently open to new job opportunities. Here's MY CV.
 - :boom:
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tipan2002fernanda@gmail.com)
 
