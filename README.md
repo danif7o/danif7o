@@ -1,5 +1,5 @@
 <p align="center" width="300"><h2 align="center">
-  ¡Hey 👋! I'm Daniela 👨🏻‍💻</h2>
+  ¡Hey 👋! I'm Daniela 👩🏻‍💻</h2>
 </p>
 
 ### 🤍 **Connect with me**
